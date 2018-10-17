@@ -13,3 +13,14 @@
 ## Ограничения на материал, легальность
 
 Используемые данные не относятся к категории ограниченного доступа.
+
+## Легальность
+
+**Лицензия:** [Creative Commons Attribution Share-Alike](http://opendefinition.org/licenses/cc-by-sa/)
+**Автор:** Артём Щенников
+**email:** artuomille@gmail.com
+
+## Инструменты, форматы данных
+
+**Форматы:** PDF, TSV, JSON
+**Интсрументы:** Python, OpenOffice, OpenRefine
